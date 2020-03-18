@@ -2,3 +2,5 @@
 
 ...
 
+Publish to geoJSON
+
